@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: bbedb41c55487f3408067dc03ac43c25
+timeCreated: 1466977907
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1 gls
+    100002: //RootNode
+    100004: floor int
+    100006: mtl bronze
+    100008: mtl bronze 1
+    100010: wall core
+    100012: wall limestone
+    100014: wall limestone h
+    100016: wall limestone typ
+    100018: wall limestone typ 1
+    100020: wall limestone typ 2
+    100022: wall limestone typ034
+    100024: wall limestone typ035
+    100026: wall limestone typ036
+    100028: wall limestone typ037
+    100030: wall limestone typ038
+    100032: wall limestone typ039
+    100034: wall limestone typ040
+    100036: wall limestone typ041
+    100038: wall limestone typ042
+    100040: wall limestone typ043
+    100042: wall limestone typ044
+    100044: wall limestone typ045
+    100046: wall limestone typ046
+    100048: wall limestone typ047
+    100050: wall limestone typ048
+    100052: wall limestone typ049
+    100054: wall limestone typ050
+    100056: wall limestone typ051
+    100058: wall limestone typ052
+    100060: wall limestone typ053
+    100062: wall limestone typ054
+    100064: wall limestone typ055
+    100066: wall limestone typ056
+    100068: wall limestone typ057
+    100070: wall limestone typ058
+    100072: wall limestone typ059
+    100074: wall limestone typ060
+    100076: wall limestone typ061
+    100078: wall limestone typ062
+    100080: wall limestone typ063
+    100082: wall limestone typ064
+    100084: wall limestone typ065
+    100086: wall limestone typ066
+    100088: wall limestone typ067
+    100090: wall limestone004
+    400000: 1 gls
+    400002: //RootNode
+    400004: floor int
+    400006: mtl bronze
+    400008: mtl bronze 1
+    400010: wall core
+    400012: wall limestone
+    400014: wall limestone h
+    400016: wall limestone typ
+    400018: wall limestone typ 1
+    400020: wall limestone typ 2
+    400022: wall limestone typ034
+    400024: wall limestone typ035
+    400026: wall limestone typ036
+    400028: wall limestone typ037
+    400030: wall limestone typ038
+    400032: wall limestone typ039
+    400034: wall limestone typ040
+    400036: wall limestone typ041
+    400038: wall limestone typ042
+    400040: wall limestone typ043
+    400042: wall limestone typ044
+    400044: wall limestone typ045
+    400046: wall limestone typ046
+    400048: wall limestone typ047
+    400050: wall limestone typ048
+    400052: wall limestone typ049
+    400054: wall limestone typ050
+    400056: wall limestone typ051
+    400058: wall limestone typ052
+    400060: wall limestone typ053
+    400062: wall limestone typ054
+    400064: wall limestone typ055
+    400066: wall limestone typ056
+    400068: wall limestone typ057
+    400070: wall limestone typ058
+    400072: wall limestone typ059
+    400074: wall limestone typ060
+    400076: wall limestone typ061
+    400078: wall limestone typ062
+    400080: wall limestone typ063
+    400082: wall limestone typ064
+    400084: wall limestone typ065
+    400086: wall limestone typ066
+    400088: wall limestone typ067
+    400090: wall limestone004
+    2300000: 1 gls
+    2300002: floor int
+    2300004: mtl bronze
+    2300006: mtl bronze 1
+    2300008: wall core
+    2300010: wall limestone
+    2300012: wall limestone h
+    2300014: wall limestone typ 1
+    2300016: wall limestone typ 2
+    2300018: wall limestone typ034
+    2300020: wall limestone typ035
+    2300022: wall limestone typ036
+    2300024: wall limestone typ037
+    2300026: wall limestone typ038
+    2300028: wall limestone typ039
+    2300030: wall limestone typ040
+    2300032: wall limestone typ041
+    2300034: wall limestone typ042
+    2300036: wall limestone typ043
+    2300038: wall limestone typ044
+    2300040: wall limestone typ045
+    2300042: wall limestone typ046
+    2300044: wall limestone typ047
+    2300046: wall limestone typ048
+    2300048: wall limestone typ049
+    2300050: wall limestone typ050
+    2300052: wall limestone typ051
+    2300054: wall limestone typ052
+    2300056: wall limestone typ053
+    2300058: wall limestone typ054
+    2300060: wall limestone typ055
+    2300062: wall limestone typ056
+    2300064: wall limestone typ057
+    2300066: wall limestone typ058
+    2300068: wall limestone typ059
+    2300070: wall limestone typ060
+    2300072: wall limestone typ061
+    2300074: wall limestone typ062
+    2300076: wall limestone typ063
+    2300078: wall limestone typ064
+    2300080: wall limestone typ065
+    2300082: wall limestone typ066
+    2300084: wall limestone typ067
+    2300086: wall limestone004
+    3300000: 1 gls
+    3300002: floor int
+    3300004: mtl bronze
+    3300006: mtl bronze 1
+    3300008: wall core
+    3300010: wall limestone
+    3300012: wall limestone h
+    3300014: wall limestone typ 1
+    3300016: wall limestone typ 2
+    3300018: wall limestone typ034
+    3300020: wall limestone typ035
+    3300022: wall limestone typ036
+    3300024: wall limestone typ037
+    3300026: wall limestone typ038
+    3300028: wall limestone typ039
+    3300030: wall limestone typ040
+    3300032: wall limestone typ041
+    3300034: wall limestone typ042
+    3300036: wall limestone typ043
+    3300038: wall limestone typ044
+    3300040: wall limestone typ045
+    3300042: wall limestone typ046
+    3300044: wall limestone typ047
+    3300046: wall limestone typ048
+    3300048: wall limestone typ049
+    3300050: wall limestone typ050
+    3300052: wall limestone typ051
+    3300054: wall limestone typ052
+    3300056: wall limestone typ053
+    3300058: wall limestone typ054
+    3300060: wall limestone typ055
+    3300062: wall limestone typ056
+    3300064: wall limestone typ057
+    3300066: wall limestone typ058
+    3300068: wall limestone typ059
+    3300070: wall limestone typ060
+    3300072: wall limestone typ061
+    3300074: wall limestone typ062
+    3300076: wall limestone typ063
+    3300078: wall limestone typ064
+    3300080: wall limestone typ065
+    3300082: wall limestone typ066
+    3300084: wall limestone typ067
+    3300086: wall limestone004
+    4300000: 1 gls
+    4300002: floor int
+    4300004: mtl bronze
+    4300006: mtl bronze
+    4300008: wall core
+    4300010: wall limestone h
+    4300012: wall limestone
+    4300014: wall limestone typ
+    4300016: wall limestone typ
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

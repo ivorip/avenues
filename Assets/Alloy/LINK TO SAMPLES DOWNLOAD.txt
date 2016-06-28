@@ -1,0 +1,3 @@
+Hi hi,
+
+We've decided to spin off the samples to a seperate package (and add some new ones!!). Download them here: https://www.assetstore.unity3d.com/en/#!/content/43687

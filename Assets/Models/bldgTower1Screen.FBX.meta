@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 298752a73a5bc794dbcc165663fe32c2
+timeCreated: 1466976570
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mtl screen t1 mapped
+    100004: mtl screen t1 mapped001
+    100006: mtl screen t1 mapped002
+    100008: mtl screen t1 mapped003
+    100010: mtl screen t1 mapped004
+    100012: mtl screen t1 mapped005
+    100014: mtl screen t1 mapped006
+    100016: mtl screen t1 mapped007
+    100018: mtl screen t1 mapped008
+    100020: mtl screen t1 mapped009
+    100022: mtl screen t1 mapped010
+    100024: mtl screen t1 mapped011
+    100026: mtl screen t1 mapped012
+    100028: mtl screen t1 mapped013
+    100030: mtl screen t1 mapped014
+    100032: mtl screen t1 mapped015
+    100034: mtl screen t1 mapped016
+    100036: mtl screen t1 mapped017
+    100038: mtl screen t1 mapped018
+    100040: mtl screen t1 mapped019
+    100042: mtl screen t1 mapped020
+    100044: mtl screen t1 mapped021
+    100046: mtl screen t1 mapped022
+    100048: mtl screen t1 mapped023
+    100050: mtl screen t1 mapped024
+    100052: mtl screen t1 mapped025
+    100054: mtl screen t1 mapped026
+    100056: mtl screen t1 mapped027
+    100058: mtl screen t1 mapped028
+    100060: mtl screen t1 mapped029
+    100062: mtl screen t1 mapped030
+    100064: mtl screen t1 mapped031
+    100066: mtl screen t1 mapped032
+    100068: mtl screen t1 mapped033
+    100070: mtl screen t1 mapped034
+    100072: mtl screen t1 mapped035
+    100074: mtl screen t1 mapped036
+    100076: mtl screen t1 mapped037
+    100078: mtl screen t1 mapped038
+    100080: mtl screen t1 mapped039
+    100082: mtl screen t1 mapped040
+    100084: mtl screen t1 mapped041
+    100086: mtl screen t1 mapped042
+    100088: mtl screen t1 mapped043
+    100090: mtl screen t1 mapped044
+    100092: mtl screen t1 mapped045
+    100094: mtl screen t1 mapped046
+    100096: mtl screen t1 mapped047
+    100098: mtl screen t1 mapped048
+    100100: mtl screen t1 mapped049
+    100102: mtl screen t1 mapped050
+    100104: mtl screen t1 mapped051
+    100106: mtl screen t1 mapped052
+    100108: mtl screen t1 mapped053
+    100110: mtl screen t1 mapped054
+    100112: mtl screen t1 mapped055
+    100114: mtl screen t1 mapped056
+    100116: mtl screen t1 mapped057
+    100118: mtl screen t1 mapped058
+    100120: mtl screen t1 mapped059
+    100122: mtl screen t1 mapped060
+    100124: mtl screen t1 mapped061
+    100126: mtl screen t1 mapped062
+    100128: mtl screen t1 mapped063
+    100130: mtl screen t1 mapped064
+    100132: mtl screen t1 mapped2
+    100134: mtl screen typ
+    100136: mtl screen typ 1
+    100138: mul frame
+    100140: mul frame 1
+    100142: mul frame 2
+    100144: mul frame 3
+    100146: mul frame035
+    100148: mul frame036
+    100150: mul frame037
+    100152: mul frame038
+    100154: mul frame039
+    100156: mul frame040
+    100158: mul frame041
+    100160: mul frame042
+    100162: mul frame043
+    100164: mul frame044
+    100166: mul frame045
+    100168: mul frame046
+    100170: mul frame047
+    100172: mul frame048
+    100174: mul frame049
+    100176: mul frame050
+    100178: mul frame051
+    100180: mul frame052
+    100182: mul frame053
+    100184: mul frame054
+    100186: mul frame055
+    100188: mul frame056
+    100190: mul frame057
+    100192: mul frame058
+    100194: mul frame059
+    100196: mul frame060
+    100198: mul frame061
+    100200: mul frame062
+    100202: mul frame063
+    100204: mul frame064
+    100206: mul frame065
+    100208: mul frame066
+    100210: mul frame067
+    100212: mul frame068
+    100214: mul frame069
+    100216: mul frame070
+    100218: mul frame071
+    100220: mul frame072
+    100222: mul frame073
+    100224: mul frame074
+    100226: mul frame075
+    100228: mul frame076
+    100230: mul frame077
+    100232: mul frame078
+    100234: mul frame079
+    100236: mul frame080
+    100238: mul frame081
+    100240: mul frame082
+    100242: mul frame083
+    100244: mul frame084
+    100246: mul frame085
+    100248: mul frame086
+    100250: mul frame087
+    100252: mul frame088
+    100254: mul frame089
+    100256: mul frame090
+    100258: mul frame091
+    100260: mul frame092
+    100262: mul frame093
+    100264: mul frame094
+    100266: mul frame095
+    100268: mul frame096
+    100270: mul frame097
+    100272: mul frame098
+    400000: //RootNode
+    400002: mtl screen t1 mapped
+    400004: mtl screen t1 mapped001
+    400006: mtl screen t1 mapped002
+    400008: mtl screen t1 mapped003
+    400010: mtl screen t1 mapped004
+    400012: mtl screen t1 mapped005
+    400014: mtl screen t1 mapped006
+    400016: mtl screen t1 mapped007
+    400018: mtl screen t1 mapped008
+    400020: mtl screen t1 mapped009
+    400022: mtl screen t1 mapped010
+    400024: mtl screen t1 mapped011
+    400026: mtl screen t1 mapped012
+    400028: mtl screen t1 mapped013
+    400030: mtl screen t1 mapped014
+    400032: mtl screen t1 mapped015
+    400034: mtl screen t1 mapped016
+    400036: mtl screen t1 mapped017
+    400038: mtl screen t1 mapped018
+    400040: mtl screen t1 mapped019
+    400042: mtl screen t1 mapped020
+    400044: mtl screen t1 mapped021
+    400046: mtl screen t1 mapped022
+    400048: mtl screen t1 mapped023
+    400050: mtl screen t1 mapped024
+    400052: mtl screen t1 mapped025
+    400054: mtl screen t1 mapped026
+    400056: mtl screen t1 mapped027
+    400058: mtl screen t1 mapped028
+    400060: mtl screen t1 mapped029
+    400062: mtl screen t1 mapped030
+    400064: mtl screen t1 mapped031
+    400066: mtl screen t1 mapped032
+    400068: mtl screen t1 mapped033
+    400070: mtl screen t1 mapped034
+    400072: mtl screen t1 mapped035
+    400074: mtl screen t1 mapped036
+    400076: mtl screen t1 mapped037
+    400078: mtl screen t1 mapped038
+    400080: mtl screen t1 mapped039
+    400082: mtl screen t1 mapped040
+    400084: mtl screen t1 mapped041
+    400086: mtl screen t1 mapped042
+    400088: mtl screen t1 mapped043
+    400090: mtl screen t1 mapped044
+    400092: mtl screen t1 mapped045
+    400094: mtl screen t1 mapped046
+    400096: mtl screen t1 mapped047
+    400098: mtl screen t1 mapped048
+    400100: mtl screen t1 mapped049
+    400102: mtl screen t1 mapped050
+    400104: mtl screen t1 mapped051
+    400106: mtl screen t1 mapped052
+    400108: mtl screen t1 mapped053
+    400110: mtl screen t1 mapped054
+    400112: mtl screen t1 mapped055
+    400114: mtl screen t1 mapped056
+    400116: mtl screen t1 mapped057
+    400118: mtl screen t1 mapped058
+    400120: mtl screen t1 mapped059
+    400122: mtl screen t1 mapped060
+    400124: mtl screen t1 mapped061
+    400126: mtl screen t1 mapped062
+    400128: mtl screen t1 mapped063
+    400130: mtl screen t1 mapped064
+    400132: mtl screen t1 mapped2
+    400134: mtl screen typ
+    400136: mtl screen typ 1
+    400138: mul frame
+    400140: mul frame 1
+    400142: mul frame 2
+    400144: mul frame 3
+    400146: mul frame035
+    400148: mul frame036
+    400150: mul frame037
+    400152: mul frame038
+    400154: mul frame039
+    400156: mul frame040
+    400158: mul frame041
+    400160: mul frame042
+    400162: mul frame043
+    400164: mul frame044
+    400166: mul frame045
+    400168: mul frame046
+    400170: mul frame047
+    400172: mul frame048
+    400174: mul frame049
+    400176: mul frame050
+    400178: mul frame051
+    400180: mul frame052
+    400182: mul frame053
+    400184: mul frame054
+    400186: mul frame055
+    400188: mul frame056
+    400190: mul frame057
+    400192: mul frame058
+    400194: mul frame059
+    400196: mul frame060
+    400198: mul frame061
+    400200: mul frame062
+    400202: mul frame063
+    400204: mul frame064
+    400206: mul frame065
+    400208: mul frame066
+    400210: mul frame067
+    400212: mul frame068
+    400214: mul frame069
+    400216: mul frame070
+    400218: mul frame071
+    400220: mul frame072
+    400222: mul frame073
+    400224: mul frame074
+    400226: mul frame075
+    400228: mul frame076
+    400230: mul frame077
+    400232: mul frame078
+    400234: mul frame079
+    400236: mul frame080
+    400238: mul frame081
+    400240: mul frame082
+    400242: mul frame083
+    400244: mul frame084
+    400246: mul frame085
+    400248: mul frame086
+    400250: mul frame087
+    400252: mul frame088
+    400254: mul frame089
+    400256: mul frame090
+    400258: mul frame091
+    400260: mul frame092
+    400262: mul frame093
+    400264: mul frame094
+    400266: mul frame095
+    400268: mul frame096
+    400270: mul frame097
+    400272: mul frame098
+    2300000: mtl screen t1 mapped
+    2300002: mtl screen t1 mapped001
+    2300004: mtl screen t1 mapped002
+    2300006: mtl screen t1 mapped003
+    2300008: mtl screen t1 mapped004
+    2300010: mtl screen t1 mapped005
+    2300012: mtl screen t1 mapped006
+    2300014: mtl screen t1 mapped007
+    2300016: mtl screen t1 mapped008
+    2300018: mtl screen t1 mapped009
+    2300020: mtl screen t1 mapped010
+    2300022: mtl screen t1 mapped011
+    2300024: mtl screen t1 mapped012
+    2300026: mtl screen t1 mapped013
+    2300028: mtl screen t1 mapped014
+    2300030: mtl screen t1 mapped015
+    2300032: mtl screen t1 mapped016
+    2300034: mtl screen t1 mapped017
+    2300036: mtl screen t1 mapped018
+    2300038: mtl screen t1 mapped019
+    2300040: mtl screen t1 mapped020
+    2300042: mtl screen t1 mapped021
+    2300044: mtl screen t1 mapped022
+    2300046: mtl screen t1 mapped023
+    2300048: mtl screen t1 mapped024
+    2300050: mtl screen t1 mapped025
+    2300052: mtl screen t1 mapped026
+    2300054: mtl screen t1 mapped027
+    2300056: mtl screen t1 mapped028
+    2300058: mtl screen t1 mapped029
+    2300060: mtl screen t1 mapped030
+    2300062: mtl screen t1 mapped031
+    2300064: mtl screen t1 mapped032
+    2300066: mtl screen t1 mapped033
+    2300068: mtl screen t1 mapped034
+    2300070: mtl screen t1 mapped035
+    2300072: mtl screen t1 mapped036
+    2300074: mtl screen t1 mapped037
+    2300076: mtl screen t1 mapped038
+    2300078: mtl screen t1 mapped039
+    2300080: mtl screen t1 mapped040
+    2300082: mtl screen t1 mapped041
+    2300084: mtl screen t1 mapped042
+    2300086: mtl screen t1 mapped043
+    2300088: mtl screen t1 mapped044
+    2300090: mtl screen t1 mapped045
+    2300092: mtl screen t1 mapped046
+    2300094: mtl screen t1 mapped047
+    2300096: mtl screen t1 mapped048
+    2300098: mtl screen t1 mapped049
+    2300100: mtl screen t1 mapped050
+    2300102: mtl screen t1 mapped051
+    2300104: mtl screen t1 mapped052
+    2300106: mtl screen t1 mapped053
+    2300108: mtl screen t1 mapped054
+    2300110: mtl screen t1 mapped055
+    2300112: mtl screen t1 mapped056
+    2300114: mtl screen t1 mapped057
+    2300116: mtl screen t1 mapped058
+    2300118: mtl screen t1 mapped059
+    2300120: mtl screen t1 mapped060
+    2300122: mtl screen t1 mapped061
+    2300124: mtl screen t1 mapped062
+    2300126: mtl screen t1 mapped063
+    2300128: mtl screen t1 mapped064
+    2300130: mtl screen t1 mapped2
+    2300132: mul frame 2
+    2300134: mul frame 3
+    2300136: mul frame035
+    2300138: mul frame036
+    2300140: mul frame037
+    2300142: mul frame038
+    2300144: mul frame039
+    2300146: mul frame040
+    2300148: mul frame041
+    2300150: mul frame042
+    2300152: mul frame043
+    2300154: mul frame044
+    2300156: mul frame045
+    2300158: mul frame046
+    2300160: mul frame047
+    2300162: mul frame048
+    2300164: mul frame049
+    2300166: mul frame050
+    2300168: mul frame051
+    2300170: mul frame052
+    2300172: mul frame053
+    2300174: mul frame054
+    2300176: mul frame055
+    2300178: mul frame056
+    2300180: mul frame057
+    2300182: mul frame058
+    2300184: mul frame059
+    2300186: mul frame060
+    2300188: mul frame061
+    2300190: mul frame062
+    2300192: mul frame063
+    2300194: mul frame064
+    2300196: mul frame065
+    2300198: mul frame066
+    2300200: mul frame067
+    2300202: mul frame068
+    2300204: mul frame069
+    2300206: mul frame070
+    2300208: mul frame071
+    2300210: mul frame072
+    2300212: mul frame073
+    2300214: mul frame074
+    2300216: mul frame075
+    2300218: mul frame076
+    2300220: mul frame077
+    2300222: mul frame078
+    2300224: mul frame079
+    2300226: mul frame080
+    2300228: mul frame081
+    2300230: mul frame082
+    2300232: mul frame083
+    2300234: mul frame084
+    2300236: mul frame085
+    2300238: mul frame086
+    2300240: mul frame087
+    2300242: mul frame088
+    2300244: mul frame089
+    2300246: mul frame090
+    2300248: mul frame091
+    2300250: mul frame092
+    2300252: mul frame093
+    2300254: mul frame094
+    2300256: mul frame095
+    2300258: mul frame096
+    2300260: mul frame097
+    2300262: mul frame098
+    3300000: mtl screen t1 mapped
+    3300002: mtl screen t1 mapped001
+    3300004: mtl screen t1 mapped002
+    3300006: mtl screen t1 mapped003
+    3300008: mtl screen t1 mapped004
+    3300010: mtl screen t1 mapped005
+    3300012: mtl screen t1 mapped006
+    3300014: mtl screen t1 mapped007
+    3300016: mtl screen t1 mapped008
+    3300018: mtl screen t1 mapped009
+    3300020: mtl screen t1 mapped010
+    3300022: mtl screen t1 mapped011
+    3300024: mtl screen t1 mapped012
+    3300026: mtl screen t1 mapped013
+    3300028: mtl screen t1 mapped014
+    3300030: mtl screen t1 mapped015
+    3300032: mtl screen t1 mapped016
+    3300034: mtl screen t1 mapped017
+    3300036: mtl screen t1 mapped018
+    3300038: mtl screen t1 mapped019
+    3300040: mtl screen t1 mapped020
+    3300042: mtl screen t1 mapped021
+    3300044: mtl screen t1 mapped022
+    3300046: mtl screen t1 mapped023
+    3300048: mtl screen t1 mapped024
+    3300050: mtl screen t1 mapped025
+    3300052: mtl screen t1 mapped026
+    3300054: mtl screen t1 mapped027
+    3300056: mtl screen t1 mapped028
+    3300058: mtl screen t1 mapped029
+    3300060: mtl screen t1 mapped030
+    3300062: mtl screen t1 mapped031
+    3300064: mtl screen t1 mapped032
+    3300066: mtl screen t1 mapped033
+    3300068: mtl screen t1 mapped034
+    3300070: mtl screen t1 mapped035
+    3300072: mtl screen t1 mapped036
+    3300074: mtl screen t1 mapped037
+    3300076: mtl screen t1 mapped038
+    3300078: mtl screen t1 mapped039
+    3300080: mtl screen t1 mapped040
+    3300082: mtl screen t1 mapped041
+    3300084: mtl screen t1 mapped042
+    3300086: mtl screen t1 mapped043
+    3300088: mtl screen t1 mapped044
+    3300090: mtl screen t1 mapped045
+    3300092: mtl screen t1 mapped046
+    3300094: mtl screen t1 mapped047
+    3300096: mtl screen t1 mapped048
+    3300098: mtl screen t1 mapped049
+    3300100: mtl screen t1 mapped050
+    3300102: mtl screen t1 mapped051
+    3300104: mtl screen t1 mapped052
+    3300106: mtl screen t1 mapped053
+    3300108: mtl screen t1 mapped054
+    3300110: mtl screen t1 mapped055
+    3300112: mtl screen t1 mapped056
+    3300114: mtl screen t1 mapped057
+    3300116: mtl screen t1 mapped058
+    3300118: mtl screen t1 mapped059
+    3300120: mtl screen t1 mapped060
+    3300122: mtl screen t1 mapped061
+    3300124: mtl screen t1 mapped062
+    3300126: mtl screen t1 mapped063
+    3300128: mtl screen t1 mapped064
+    3300130: mtl screen t1 mapped2
+    3300132: mul frame 2
+    3300134: mul frame 3
+    3300136: mul frame035
+    3300138: mul frame036
+    3300140: mul frame037
+    3300142: mul frame038
+    3300144: mul frame039
+    3300146: mul frame040
+    3300148: mul frame041
+    3300150: mul frame042
+    3300152: mul frame043
+    3300154: mul frame044
+    3300156: mul frame045
+    3300158: mul frame046
+    3300160: mul frame047
+    3300162: mul frame048
+    3300164: mul frame049
+    3300166: mul frame050
+    3300168: mul frame051
+    3300170: mul frame052
+    3300172: mul frame053
+    3300174: mul frame054
+    3300176: mul frame055
+    3300178: mul frame056
+    3300180: mul frame057
+    3300182: mul frame058
+    3300184: mul frame059
+    3300186: mul frame060
+    3300188: mul frame061
+    3300190: mul frame062
+    3300192: mul frame063
+    3300194: mul frame064
+    3300196: mul frame065
+    3300198: mul frame066
+    3300200: mul frame067
+    3300202: mul frame068
+    3300204: mul frame069
+    3300206: mul frame070
+    3300208: mul frame071
+    3300210: mul frame072
+    3300212: mul frame073
+    3300214: mul frame074
+    3300216: mul frame075
+    3300218: mul frame076
+    3300220: mul frame077
+    3300222: mul frame078
+    3300224: mul frame079
+    3300226: mul frame080
+    3300228: mul frame081
+    3300230: mul frame082
+    3300232: mul frame083
+    3300234: mul frame084
+    3300236: mul frame085
+    3300238: mul frame086
+    3300240: mul frame087
+    3300242: mul frame088
+    3300244: mul frame089
+    3300246: mul frame090
+    3300248: mul frame091
+    3300250: mul frame092
+    3300252: mul frame093
+    3300254: mul frame094
+    3300256: mul frame095
+    3300258: mul frame096
+    3300260: mul frame097
+    3300262: mul frame098
+    4300000: mul frame
+    4300002: mul frame
+    4300004: mtl screen t1 mapped2
+    4300006: mtl screen t1 mapped
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

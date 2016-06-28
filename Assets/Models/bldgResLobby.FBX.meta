@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: bc709d623546bd448947904e5268f32f
+timeCreated: 1466975824
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1 furn
+    100002: 1 gls
+    100004: 1 gls 1
+    100006: //RootNode
+    100008: ceiling lobby
+    100010: floor tile
+    100012: mtl bronze
+    100014: mul door
+    100016: mul frame
+    100018: wall limestone
+    100020: wall limestone 1
+    100022: wall limestone dark
+    100024: wall limestone tall
+    100026: wall limestone tall 1
+    400000: 1 furn
+    400002: 1 gls
+    400004: 1 gls 1
+    400006: //RootNode
+    400008: ceiling lobby
+    400010: floor tile
+    400012: mtl bronze
+    400014: mul door
+    400016: mul frame
+    400018: wall limestone
+    400020: wall limestone 1
+    400022: wall limestone dark
+    400024: wall limestone tall
+    400026: wall limestone tall 1
+    2300000: 1 furn
+    2300002: 1 gls
+    2300004: 1 gls 1
+    2300006: ceiling lobby
+    2300008: floor tile
+    2300010: mtl bronze
+    2300012: mul door
+    2300014: mul frame
+    2300016: wall limestone
+    2300018: wall limestone 1
+    2300020: wall limestone dark
+    2300022: wall limestone tall
+    2300024: wall limestone tall 1
+    3300000: 1 furn
+    3300002: 1 gls
+    3300004: 1 gls 1
+    3300006: ceiling lobby
+    3300008: floor tile
+    3300010: mtl bronze
+    3300012: mul door
+    3300014: mul frame
+    3300016: wall limestone
+    3300018: wall limestone 1
+    3300020: wall limestone dark
+    3300022: wall limestone tall
+    3300024: wall limestone tall 1
+    4300000: mtl bronze
+    4300002: wall limestone tall
+    4300004: mul door
+    4300006: ceiling lobby
+    4300008: 1 furn
+    4300010: 1 gls
+    4300012: mul frame
+    4300014: floor tile
+    4300016: wall limestone
+    4300018: 1 gls
+    4300020: wall limestone
+    4300022: wall limestone dark
+    4300024: wall limestone tall
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

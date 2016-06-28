@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: c3f4c0287e8920c479de1cbe9a8df51a
+timeCreated: 1466974873
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1 gls
+    100002: 1 gls 1
+    100004: 1 water
+    100006: //RootNode
+    100008: floor int
+    100010: mtl bronze
+    100012: mtl door
+    100014: site grass1 podium
+    100016: site grass2
+    100018: wall context
+    100020: wall limestone
+    100022: wall limestone 1
+    100024: wall limestone dark
+    100026: wall limestone parapet
+    100028: wall limestone parapet001
+    100030: wall limestone tall
+    100032: wall podium
+    400000: 1 gls
+    400002: 1 gls 1
+    400004: 1 water
+    400006: //RootNode
+    400008: floor int
+    400010: mtl bronze
+    400012: mtl door
+    400014: site grass1 podium
+    400016: site grass2
+    400018: wall context
+    400020: wall limestone
+    400022: wall limestone 1
+    400024: wall limestone dark
+    400026: wall limestone parapet
+    400028: wall limestone parapet001
+    400030: wall limestone tall
+    400032: wall podium
+    2300000: 1 gls
+    2300002: 1 gls 1
+    2300004: 1 water
+    2300006: floor int
+    2300008: mtl bronze
+    2300010: mtl door
+    2300012: site grass1 podium
+    2300014: site grass2
+    2300016: wall context
+    2300018: wall limestone
+    2300020: wall limestone 1
+    2300022: wall limestone dark
+    2300024: wall limestone parapet
+    2300026: wall limestone parapet001
+    2300028: wall limestone tall
+    2300030: wall podium
+    3300000: 1 gls
+    3300002: 1 gls 1
+    3300004: 1 water
+    3300006: floor int
+    3300008: mtl bronze
+    3300010: mtl door
+    3300012: site grass1 podium
+    3300014: site grass2
+    3300016: wall context
+    3300018: wall limestone
+    3300020: wall limestone 1
+    3300022: wall limestone dark
+    3300024: wall limestone parapet
+    3300026: wall limestone parapet001
+    3300028: wall limestone tall
+    3300030: wall podium
+    4300000: floor int
+    4300002: mtl bronze
+    4300004: wall limestone
+    4300006: 1 gls
+    4300008: site grass1 podium
+    4300010: site grass2
+    4300012: wall podium
+    4300014: wall context
+    4300016: wall limestone
+    4300018: 1 gls
+    4300020: 1 water
+    4300022: wall limestone dark
+    4300024: mtl door
+    4300026: wall limestone tall
+    4300028: wall limestone parapet
+    4300030: wall limestone parapet001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

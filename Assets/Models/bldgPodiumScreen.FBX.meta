@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 8b6373f35ba82ef489a8d39a86d562be
+timeCreated: 1466975311
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mtl door
+    100004: mtl door_MeshPart0
+    100006: mtl door_MeshPart1
+    100008: mtl door_MeshPart2
+    100010: mtl door_MeshPart3
+    100012: mtl door_MeshPart4
+    100014: mtl screen
+    100016: mtl screen lobby
+    100018: mtl screen lobby 1
+    100020: mtl screen lobby001
+    100022: mtl screen lobby002
+    100024: mtl screen lobby003
+    100026: mtl screen lobby004
+    100028: mtl screen lobby005
+    100030: mtl screen lobby006
+    100032: mtl screen003
+    100034: mul frame
+    100036: Object001
+    400000: //RootNode
+    400002: mtl door
+    400004: mtl door_MeshPart0
+    400006: mtl door_MeshPart1
+    400008: mtl door_MeshPart2
+    400010: mtl door_MeshPart3
+    400012: mtl door_MeshPart4
+    400014: mtl screen
+    400016: mtl screen lobby
+    400018: mtl screen lobby 1
+    400020: mtl screen lobby001
+    400022: mtl screen lobby002
+    400024: mtl screen lobby003
+    400026: mtl screen lobby004
+    400028: mtl screen lobby005
+    400030: mtl screen lobby006
+    400032: mtl screen003
+    400034: mul frame
+    400036: Object001
+    2300000: mtl door_MeshPart0
+    2300002: mtl door_MeshPart1
+    2300004: mtl door_MeshPart2
+    2300006: mtl door_MeshPart3
+    2300008: mtl door_MeshPart4
+    2300010: mtl screen
+    2300012: mtl screen lobby 1
+    2300014: mtl screen lobby001
+    2300016: mtl screen lobby002
+    2300018: mtl screen lobby003
+    2300020: mtl screen lobby004
+    2300022: mtl screen lobby005
+    2300024: mtl screen lobby006
+    2300026: mtl screen003
+    2300028: mul frame
+    2300030: Object001
+    3300000: mtl door_MeshPart0
+    3300002: mtl door_MeshPart1
+    3300004: mtl door_MeshPart2
+    3300006: mtl door_MeshPart3
+    3300008: mtl door_MeshPart4
+    3300010: mtl screen
+    3300012: mtl screen lobby 1
+    3300014: mtl screen lobby001
+    3300016: mtl screen lobby002
+    3300018: mtl screen lobby003
+    3300020: mtl screen lobby004
+    3300022: mtl screen lobby005
+    3300024: mtl screen lobby006
+    3300026: mtl screen003
+    3300028: mul frame
+    3300030: Object001
+    4300000: mtl door_MeshPart0
+    4300002: mtl door_MeshPart1
+    4300004: mtl door_MeshPart2
+    4300006: mtl door_MeshPart3
+    4300008: mtl door_MeshPart4
+    4300010: mul frame
+    4300012: Object001
+    4300014: mtl screen
+    4300016: mtl screen003
+    4300018: mtl screen lobby
+    4300020: mtl screen lobby001
+    4300022: mtl screen lobby002
+    4300024: mtl screen lobby003
+    4300026: mtl screen lobby004
+    4300028: mtl screen lobby005
+    4300030: mtl screen lobby006
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

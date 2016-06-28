@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d517231fecc575946853bb6f5631de34, type: 3}
+  m_Name: packerDefinition
+  m_EditorClassIdentifier: 
+  PackedMaps:
+  - {fileID: 11400000, guid: 1d42740116df09f4f9c9e144a4b9885f, type: 2}
+  - {fileID: 11400000, guid: e61bf900acd8d7c46b63c240c42b1429, type: 2}
+  - {fileID: 11400000, guid: 2bf47aefc6b2d2b4fa519cb677bb4346, type: 2}
+  - {fileID: 11400000, guid: f0d4fc30aba4a084ba51be9301faf8a9, type: 2}
+  - {fileID: 11400000, guid: 5d1947582bfff244299d3af2cb6ab782, type: 2}
+  - {fileID: 11400000, guid: 23522b2d0809c9c4d9428659169ec2a1, type: 2}
+  - {fileID: 11400000, guid: 972cff293012f9740a9250f756d7418b, type: 2}
+  NRMChannel:
+    Title: Normal map
+    HelpText: Input normal map for Specular AA.
+    BackgroundColor: {r: 0.33133176, g: 0, b: 0.5803922, a: 1}
+  VarianceText: Bias normal map variance toward zero to reduce Specular AA effect.
+  AutoRegenerateText: Regenerate this map when any of its input textures are updated.

@@ -1,0 +1,2029 @@
+fileFormatVersion: 2
+guid: e0d9af01864ca8f4abf956e904697704
+timeCreated: 1466977978
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1 gls
+    100002: 1 gls 1
+    100004: 1 gls blue 40%ref
+    100006: 1 gls blue 40%ref001
+    100008: 1 gls blue 40%ref002
+    100010: 1 gls clear
+    100012: 1 gls dark blue
+    100014: 1 gls light
+    100016: 1 gls light 1
+    100018: 1 gls light001
+    100020: 1 gls light002
+    100022: 1 gls light003
+    100024: 1 gls light004
+    100026: 1 gls light005
+    100028: 1 gls light006
+    100030: 1 gls light007
+    100032: 1 gls light008
+    100034: 1 gls light009
+    100036: 1 gls light010
+    100038: 1 gls light011
+    100040: 1 gls light012
+    100042: 1 gls light013
+    100044: 1 gls light015
+    100046: 1 gls light016
+    100048: 1 gls light017
+    100050: 1 gls light018
+    100052: 1 gls light019
+    100054: 1 gls light020
+    100056: 1 gls light021
+    100058: 1 gls light022
+    100060: 1 gls light023
+    100062: 1 gls light024
+    100064: 1 gls light025
+    100066: 1 gls light026
+    100068: 1 gls light027
+    100070: 1 gls light028
+    100072: 1 gls opaque
+    100074: 1 gls opaque 1
+    100076: 1 gls opaque001
+    100078: 1 gls opaque002
+    100080: 1 gls opaque003
+    100082: 1 gls opaque004
+    100084: 1 gls opaque005
+    100086: 1 gls opaque006
+    100088: 1 gls round
+    100090: 1 gls001
+    100092: 1 gls002
+    100094: 1 gls004
+    100096: 1 gls006
+    100098: ceiling
+    100100: door stone
+    100102: door wood
+    100104: elev
+    100106: elev001
+    100108: floor
+    100110: floor carpet
+    100112: floor concrete polished black
+    100114: floor concrete polished black001
+    100116: floor concrete polished black002
+    100118: floor concrete polished black004
+    100120: floor marble
+    100122: floor paving_Running Bond 2x1 Light Begie
+    100124: floor stone balack
+    100126: floor stone black
+    100128: floor stone tan
+    100130: floor stone white
+    100132: floor stone white 1
+    100134: floor stone white003
+    100136: mtl
+    100138: mtl bronze
+    100140: mtl bronze001
+    100142: mtl bronze002
+    100144: mtl canopy
+    100146: mtl corten
+    100148: mtl corten dark
+    100150: mtl dark
+    100152: mtl door00
+    100154: mtl door01
+    100156: mtl door02
+    100158: mtl door03
+    100160: mtl door04
+    100162: mtl door05
+    100164: mtl door06
+    100166: mtl door07
+    100168: mtl door09
+    100170: mtl frame
+    100172: mtl light grey
+    100174: mtl mesh
+    100176: mtl mesh 1
+    100178: mtl mesh001
+    100180: mtl panel
+    100182: mtl panel00
+    100184: mtl panel01
+    100186: mtl panel03
+    100188: mtl panel04
+    100190: mtl panel07
+    100192: mtl panel08
+    100194: mtl panel09
+    100196: mtl panel10
+    100198: mtl panel11
+    100200: mtl panel12
+    100202: mtl panel13
+    100204: mtl panel14
+    100206: mtl panel15
+    100208: mtl panel16
+    100210: mtl panel17
+    100212: mtl panel18
+    100214: mtl rail
+    100216: mtl screen00
+    100218: mtl screen01
+    100220: mtl screen01_MeshPart0
+    100222: mtl screen01_MeshPart1
+    100224: mtl screen02
+    100226: mtl stainless
+    100228: mtl steel00
+    100230: mtl steel02
+    100232: mtl steel03
+    100234: mtl steel04
+    100236: mtl steel05
+    100238: mtl steel06
+    100240: mtl steel07
+    100242: mtl steel08
+    100244: mtl steel09
+    100246: mtl steel10
+    100248: mtl white00
+    100250: mtl white01
+    100252: mtl white03
+    100254: mtl white04
+    100256: mul white
+    100258: mul white 1
+    100260: mul white001
+    100262: mul white002
+    100264: mul white003
+    100266: mul white004
+    100268: mul00
+    100270: mul01
+    100272: mul02
+    100274: mul02_MeshPart0
+    100276: mul02_MeshPart1
+    100278: mul02_MeshPart2
+    100280: mul03
+    100282: mul04
+    100284: mul05
+    100286: mul06
+    100288: mul07
+    100290: mul08
+    100292: mul09
+    100294: mul100
+    100296: mul101
+    100298: mul102
+    100300: mul103
+    100302: mul104
+    100304: mul105
+    100306: mul106
+    100308: mul107
+    100310: mul108
+    100312: mul109
+    100314: mul11
+    100316: mul110
+    100318: mul111
+    100320: mul112
+    100322: mul113
+    100324: mul12
+    100326: mul17
+    100328: mul18
+    100330: mul19
+    100332: mul20
+    100334: mul21
+    100336: mul22
+    100338: mul23
+    100340: mul24
+    100342: mul25
+    100344: mul26
+    100346: mul27
+    100348: mul28
+    100350: mul29
+    100352: mul30
+    100354: mul31
+    100356: mul32
+    100358: mul33
+    100360: mul34
+    100362: mul34_MeshPart0
+    100364: mul34_MeshPart1
+    100366: mul35
+    100368: mul36
+    100370: mul37
+    100372: mul38
+    100374: mul40
+    100376: mul41
+    100378: mul42
+    100380: mul43
+    100382: mul44
+    100384: mul45
+    100386: mul46
+    100388: mul47
+    100390: mul48
+    100392: mul49
+    100394: mul50
+    100396: mul51
+    100398: mul52
+    100400: mul54
+    100402: mul55
+    100404: mul57
+    100406: mul59
+    100408: mul60
+    100410: mul61
+    100412: mul62
+    100414: mul63
+    100416: mul64
+    100418: mul65
+    100420: mul66
+    100422: mul67
+    100424: mul68
+    100426: mul69
+    100428: mul70
+    100430: mul71
+    100432: mul72
+    100434: mul73
+    100436: mul73_MeshPart0
+    100438: mul73_MeshPart1
+    100440: mul74
+    100442: mul75
+    100444: mul76
+    100446: mul77
+    100448: mul78
+    100450: mul79
+    100452: mul80
+    100454: mul81
+    100456: mul82
+    100458: mul83
+    100460: mul84
+    100462: mul85
+    100464: mul86
+    100466: mul89
+    100468: mul90
+    100470: mul91
+    100472: mul92
+    100474: mul93
+    100476: mul94
+    100478: mul95
+    100480: mul96
+    100482: mul97
+    100484: mul98
+    100486: mul99
+    100488: //RootNode
+    100490: struct wood00
+    100492: struct wood02
+    100494: struct wood03
+    100496: struct wood04
+    100498: struct wood05
+    100500: struct wood06
+    100502: struct wood07
+    100504: struct wood08
+    100506: wal beige00
+    100508: wal beige01
+    100510: wal beige02
+    100512: wal beige03
+    100514: wal beige04
+    100516: wal beige05
+    100518: wal beige06
+    100520: wal beige07
+    100522: wal beige08
+    100524: wal beige09
+    100526: wal beige10
+    100528: wal beige11
+    100530: wal beige12
+    100532: wal beige13
+    100534: wal beige15
+    100536: wall banner
+    100538: wall concrete001
+    100540: wall concrete002
+    100542: wall concrete003
+    100544: wall concrete005
+    100546: wall concrete006
+    100548: wall concrete007
+    100550: wall concrete008
+    100552: wall concrete009
+    100554: wall concrete010
+    100556: wall concrete011
+    100558: wall concrete013
+    100560: wall concrete014
+    100562: wall concrete015
+    100564: wall concrete016
+    100566: wall concrete017
+    100568: wall concrete018
+    100570: wall concrete019
+    100572: wall grey
+    100574: wall gyp
+    100576: wall holes
+    100578: wall holes_MeshPart0
+    100580: wall holes_MeshPart1
+    100582: wall light grey
+    100584: wall pattern
+    100586: wall pattern 1
+    100588: wall pattern 2
+    100590: wall pattern 3
+    100592: wall pattern arabic
+    100594: wall plaster
+    100596: wall plaster white
+    100598: wall precast grey00
+    100600: wall precast grey01
+    100602: wall precast grey02
+    100604: wall precast grey03
+    100606: wall precast grey04
+    100608: wall precast grey05
+    100610: wall precast grey06
+    100612: wall precast grey07
+    100614: wall precast grey08
+    100616: wall precast grey09
+    100618: wall precast pattern
+    100620: wall precast pattern 1
+    100622: wall precast pattern 2
+    100624: wall precast pattern001
+    100626: wall precast pattern002
+    100628: wall precast pattern003
+    100630: wall red
+    100632: wall sandstone
+    100634: wall sandstone 1
+    100636: wall stone beige00
+    100638: wall stone beige00 1
+    100640: wall stone beige01
+    100642: wall stone beige02
+    100644: wall stone beige03
+    100646: wall stone beige04
+    100648: wall stone beige05
+    100650: wall stone beige06
+    100652: wall stone beige08
+    100654: wall stone beige09
+    100656: wall stone beige10
+    100658: wall stone beige11
+    100660: wall stone beige13
+    100662: wall stone beige14
+    100664: wall stone beige15
+    100666: wall stone beige17
+    100668: wall stone beige18
+    100670: wall stone beige19
+    100672: wall stone beige21
+    100674: wall stone beige22
+    100676: wall stone beige23
+    100678: wall stone beige24
+    100680: wall stone beige25
+    100682: wall stone beige26
+    100684: wall stone beige27
+    100686: wall stone beige28
+    100688: wall stone beige30
+    100690: wall stone beige31
+    100692: wall stone beige32
+    100694: wall stone beige33
+    100696: wall stone beige34
+    100698: wall stone beige35
+    100700: wall stone grey
+    100702: wall stone yellow
+    100704: wall strips
+    100706: wall terracotta beige
+    100708: wall tree bark
+    100710: wall white
+    100712: wall white00
+    100714: wall white01
+    100716: wall white02
+    100718: wall white04
+    100720: wall white05
+    100722: wall white06
+    100724: wall white07
+    100726: wall white08
+    100728: wall white09
+    100730: wall white10
+    100732: wall001
+    100734: wall002
+    100736: wall003
+    100738: wall004
+    100740: wall005
+    100742: wall006
+    100744: wall007
+    100746: wall008
+    100748: wall009
+    100750: wall010
+    100752: wall011
+    100754: wall012
+    100756: wall013
+    100758: wall014
+    100760: wall015
+    100762: wall016
+    100764: wall017
+    100766: wall018
+    100768: wall021
+    100770: wall022
+    100772: wall023
+    100774: wall024
+    100776: wall025
+    100778: wall026
+    100780: wall027
+    100782: Wood_Birch
+    100784: Wood_Birch001
+    100786: Wood_Birch002
+    100788: Wood_Birch003
+    100790: Wood_Birch004
+    100792: Wood_Birch005
+    100794: Wood_Birch006
+    400000: 1 gls
+    400002: 1 gls 1
+    400004: 1 gls blue 40%ref
+    400006: 1 gls blue 40%ref001
+    400008: 1 gls blue 40%ref002
+    400010: 1 gls clear
+    400012: 1 gls dark blue
+    400014: 1 gls light
+    400016: 1 gls light 1
+    400018: 1 gls light001
+    400020: 1 gls light002
+    400022: 1 gls light003
+    400024: 1 gls light004
+    400026: 1 gls light005
+    400028: 1 gls light006
+    400030: 1 gls light007
+    400032: 1 gls light008
+    400034: 1 gls light009
+    400036: 1 gls light010
+    400038: 1 gls light011
+    400040: 1 gls light012
+    400042: 1 gls light013
+    400044: 1 gls light015
+    400046: 1 gls light016
+    400048: 1 gls light017
+    400050: 1 gls light018
+    400052: 1 gls light019
+    400054: 1 gls light020
+    400056: 1 gls light021
+    400058: 1 gls light022
+    400060: 1 gls light023
+    400062: 1 gls light024
+    400064: 1 gls light025
+    400066: 1 gls light026
+    400068: 1 gls light027
+    400070: 1 gls light028
+    400072: 1 gls opaque
+    400074: 1 gls opaque 1
+    400076: 1 gls opaque001
+    400078: 1 gls opaque002
+    400080: 1 gls opaque003
+    400082: 1 gls opaque004
+    400084: 1 gls opaque005
+    400086: 1 gls opaque006
+    400088: 1 gls round
+    400090: 1 gls001
+    400092: 1 gls002
+    400094: 1 gls004
+    400096: 1 gls006
+    400098: ceiling
+    400100: door stone
+    400102: door wood
+    400104: elev
+    400106: elev001
+    400108: floor
+    400110: floor carpet
+    400112: floor concrete polished black
+    400114: floor concrete polished black001
+    400116: floor concrete polished black002
+    400118: floor concrete polished black004
+    400120: floor marble
+    400122: floor paving_Running Bond 2x1 Light Begie
+    400124: floor stone balack
+    400126: floor stone black
+    400128: floor stone tan
+    400130: floor stone white
+    400132: floor stone white 1
+    400134: floor stone white003
+    400136: mtl
+    400138: mtl bronze
+    400140: mtl bronze001
+    400142: mtl bronze002
+    400144: mtl canopy
+    400146: mtl corten
+    400148: mtl corten dark
+    400150: mtl dark
+    400152: mtl door00
+    400154: mtl door01
+    400156: mtl door02
+    400158: mtl door03
+    400160: mtl door04
+    400162: mtl door05
+    400164: mtl door06
+    400166: mtl door07
+    400168: mtl door09
+    400170: mtl frame
+    400172: mtl light grey
+    400174: mtl mesh
+    400176: mtl mesh 1
+    400178: mtl mesh001
+    400180: mtl panel
+    400182: mtl panel00
+    400184: mtl panel01
+    400186: mtl panel03
+    400188: mtl panel04
+    400190: mtl panel07
+    400192: mtl panel08
+    400194: mtl panel09
+    400196: mtl panel10
+    400198: mtl panel11
+    400200: mtl panel12
+    400202: mtl panel13
+    400204: mtl panel14
+    400206: mtl panel15
+    400208: mtl panel16
+    400210: mtl panel17
+    400212: mtl panel18
+    400214: mtl rail
+    400216: mtl screen00
+    400218: mtl screen01
+    400220: mtl screen01_MeshPart0
+    400222: mtl screen01_MeshPart1
+    400224: mtl screen02
+    400226: mtl stainless
+    400228: mtl steel00
+    400230: mtl steel02
+    400232: mtl steel03
+    400234: mtl steel04
+    400236: mtl steel05
+    400238: mtl steel06
+    400240: mtl steel07
+    400242: mtl steel08
+    400244: mtl steel09
+    400246: mtl steel10
+    400248: mtl white00
+    400250: mtl white01
+    400252: mtl white03
+    400254: mtl white04
+    400256: mul white
+    400258: mul white 1
+    400260: mul white001
+    400262: mul white002
+    400264: mul white003
+    400266: mul white004
+    400268: mul00
+    400270: mul01
+    400272: mul02
+    400274: mul02_MeshPart0
+    400276: mul02_MeshPart1
+    400278: mul02_MeshPart2
+    400280: mul03
+    400282: mul04
+    400284: mul05
+    400286: mul06
+    400288: mul07
+    400290: mul08
+    400292: mul09
+    400294: mul100
+    400296: mul101
+    400298: mul102
+    400300: mul103
+    400302: mul104
+    400304: mul105
+    400306: mul106
+    400308: mul107
+    400310: mul108
+    400312: mul109
+    400314: mul11
+    400316: mul110
+    400318: mul111
+    400320: mul112
+    400322: mul113
+    400324: mul12
+    400326: mul17
+    400328: mul18
+    400330: mul19
+    400332: mul20
+    400334: mul21
+    400336: mul22
+    400338: mul23
+    400340: mul24
+    400342: mul25
+    400344: mul26
+    400346: mul27
+    400348: mul28
+    400350: mul29
+    400352: mul30
+    400354: mul31
+    400356: mul32
+    400358: mul33
+    400360: mul34
+    400362: mul34_MeshPart0
+    400364: mul34_MeshPart1
+    400366: mul35
+    400368: mul36
+    400370: mul37
+    400372: mul38
+    400374: mul40
+    400376: mul41
+    400378: mul42
+    400380: mul43
+    400382: mul44
+    400384: mul45
+    400386: mul46
+    400388: mul47
+    400390: mul48
+    400392: mul49
+    400394: mul50
+    400396: mul51
+    400398: mul52
+    400400: mul54
+    400402: mul55
+    400404: mul57
+    400406: mul59
+    400408: mul60
+    400410: mul61
+    400412: mul62
+    400414: mul63
+    400416: mul64
+    400418: mul65
+    400420: mul66
+    400422: mul67
+    400424: mul68
+    400426: mul69
+    400428: mul70
+    400430: mul71
+    400432: mul72
+    400434: mul73
+    400436: mul73_MeshPart0
+    400438: mul73_MeshPart1
+    400440: mul74
+    400442: mul75
+    400444: mul76
+    400446: mul77
+    400448: mul78
+    400450: mul79
+    400452: mul80
+    400454: mul81
+    400456: mul82
+    400458: mul83
+    400460: mul84
+    400462: mul85
+    400464: mul86
+    400466: mul89
+    400468: mul90
+    400470: mul91
+    400472: mul92
+    400474: mul93
+    400476: mul94
+    400478: mul95
+    400480: mul96
+    400482: mul97
+    400484: mul98
+    400486: mul99
+    400488: //RootNode
+    400490: struct wood00
+    400492: struct wood02
+    400494: struct wood03
+    400496: struct wood04
+    400498: struct wood05
+    400500: struct wood06
+    400502: struct wood07
+    400504: struct wood08
+    400506: wal beige00
+    400508: wal beige01
+    400510: wal beige02
+    400512: wal beige03
+    400514: wal beige04
+    400516: wal beige05
+    400518: wal beige06
+    400520: wal beige07
+    400522: wal beige08
+    400524: wal beige09
+    400526: wal beige10
+    400528: wal beige11
+    400530: wal beige12
+    400532: wal beige13
+    400534: wal beige15
+    400536: wall banner
+    400538: wall concrete001
+    400540: wall concrete002
+    400542: wall concrete003
+    400544: wall concrete005
+    400546: wall concrete006
+    400548: wall concrete007
+    400550: wall concrete008
+    400552: wall concrete009
+    400554: wall concrete010
+    400556: wall concrete011
+    400558: wall concrete013
+    400560: wall concrete014
+    400562: wall concrete015
+    400564: wall concrete016
+    400566: wall concrete017
+    400568: wall concrete018
+    400570: wall concrete019
+    400572: wall grey
+    400574: wall gyp
+    400576: wall holes
+    400578: wall holes_MeshPart0
+    400580: wall holes_MeshPart1
+    400582: wall light grey
+    400584: wall pattern
+    400586: wall pattern 1
+    400588: wall pattern 2
+    400590: wall pattern 3
+    400592: wall pattern arabic
+    400594: wall plaster
+    400596: wall plaster white
+    400598: wall precast grey00
+    400600: wall precast grey01
+    400602: wall precast grey02
+    400604: wall precast grey03
+    400606: wall precast grey04
+    400608: wall precast grey05
+    400610: wall precast grey06
+    400612: wall precast grey07
+    400614: wall precast grey08
+    400616: wall precast grey09
+    400618: wall precast pattern
+    400620: wall precast pattern 1
+    400622: wall precast pattern 2
+    400624: wall precast pattern001
+    400626: wall precast pattern002
+    400628: wall precast pattern003
+    400630: wall red
+    400632: wall sandstone
+    400634: wall sandstone 1
+    400636: wall stone beige00
+    400638: wall stone beige00 1
+    400640: wall stone beige01
+    400642: wall stone beige02
+    400644: wall stone beige03
+    400646: wall stone beige04
+    400648: wall stone beige05
+    400650: wall stone beige06
+    400652: wall stone beige08
+    400654: wall stone beige09
+    400656: wall stone beige10
+    400658: wall stone beige11
+    400660: wall stone beige13
+    400662: wall stone beige14
+    400664: wall stone beige15
+    400666: wall stone beige17
+    400668: wall stone beige18
+    400670: wall stone beige19
+    400672: wall stone beige21
+    400674: wall stone beige22
+    400676: wall stone beige23
+    400678: wall stone beige24
+    400680: wall stone beige25
+    400682: wall stone beige26
+    400684: wall stone beige27
+    400686: wall stone beige28
+    400688: wall stone beige30
+    400690: wall stone beige31
+    400692: wall stone beige32
+    400694: wall stone beige33
+    400696: wall stone beige34
+    400698: wall stone beige35
+    400700: wall stone grey
+    400702: wall stone yellow
+    400704: wall strips
+    400706: wall terracotta beige
+    400708: wall tree bark
+    400710: wall white
+    400712: wall white00
+    400714: wall white01
+    400716: wall white02
+    400718: wall white04
+    400720: wall white05
+    400722: wall white06
+    400724: wall white07
+    400726: wall white08
+    400728: wall white09
+    400730: wall white10
+    400732: wall001
+    400734: wall002
+    400736: wall003
+    400738: wall004
+    400740: wall005
+    400742: wall006
+    400744: wall007
+    400746: wall008
+    400748: wall009
+    400750: wall010
+    400752: wall011
+    400754: wall012
+    400756: wall013
+    400758: wall014
+    400760: wall015
+    400762: wall016
+    400764: wall017
+    400766: wall018
+    400768: wall021
+    400770: wall022
+    400772: wall023
+    400774: wall024
+    400776: wall025
+    400778: wall026
+    400780: wall027
+    400782: Wood_Birch
+    400784: Wood_Birch001
+    400786: Wood_Birch002
+    400788: Wood_Birch003
+    400790: Wood_Birch004
+    400792: Wood_Birch005
+    400794: Wood_Birch006
+    2300000: 1 gls
+    2300002: 1 gls 1
+    2300004: 1 gls blue 40%ref
+    2300006: 1 gls blue 40%ref001
+    2300008: 1 gls blue 40%ref002
+    2300010: 1 gls clear
+    2300012: 1 gls dark blue
+    2300014: 1 gls light
+    2300016: 1 gls light 1
+    2300018: 1 gls light001
+    2300020: 1 gls light002
+    2300022: 1 gls light003
+    2300024: 1 gls light004
+    2300026: 1 gls light005
+    2300028: 1 gls light006
+    2300030: 1 gls light008
+    2300032: 1 gls light009
+    2300034: 1 gls light010
+    2300036: 1 gls light011
+    2300038: 1 gls light012
+    2300040: 1 gls light013
+    2300042: 1 gls light015
+    2300044: 1 gls light016
+    2300046: 1 gls light017
+    2300048: 1 gls light018
+    2300050: 1 gls light019
+    2300052: 1 gls light020
+    2300054: 1 gls light021
+    2300056: 1 gls light022
+    2300058: 1 gls light023
+    2300060: 1 gls light024
+    2300062: 1 gls light025
+    2300064: 1 gls light026
+    2300066: 1 gls light027
+    2300068: 1 gls light028
+    2300070: 1 gls opaque
+    2300072: 1 gls opaque 1
+    2300074: 1 gls opaque001
+    2300076: 1 gls opaque002
+    2300078: 1 gls opaque003
+    2300080: 1 gls opaque004
+    2300082: 1 gls opaque005
+    2300084: 1 gls opaque006
+    2300086: 1 gls round
+    2300088: 1 gls001
+    2300090: 1 gls002
+    2300092: 1 gls004
+    2300094: 1 gls006
+    2300096: ceiling
+    2300098: door stone
+    2300100: door wood
+    2300102: elev
+    2300104: elev001
+    2300106: floor
+    2300108: floor carpet
+    2300110: floor concrete polished black
+    2300112: floor concrete polished black001
+    2300114: floor concrete polished black002
+    2300116: floor concrete polished black004
+    2300118: floor marble
+    2300120: floor paving_Running Bond 2x1 Light Begie
+    2300122: floor stone balack
+    2300124: floor stone black
+    2300126: floor stone tan
+    2300128: floor stone white
+    2300130: floor stone white 1
+    2300132: floor stone white003
+    2300134: mtl
+    2300136: mtl bronze
+    2300138: mtl bronze001
+    2300140: mtl bronze002
+    2300142: mtl canopy
+    2300144: mtl corten
+    2300146: mtl corten dark
+    2300148: mtl dark
+    2300150: mtl door00
+    2300152: mtl door01
+    2300154: mtl door02
+    2300156: mtl door03
+    2300158: mtl door04
+    2300160: mtl door05
+    2300162: mtl door06
+    2300164: mtl door07
+    2300166: mtl door09
+    2300168: mtl frame
+    2300170: mtl light grey
+    2300172: mtl mesh
+    2300174: mtl mesh 1
+    2300176: mtl mesh001
+    2300178: mtl panel
+    2300180: mtl panel00
+    2300182: mtl panel01
+    2300184: mtl panel03
+    2300186: mtl panel04
+    2300188: mtl panel07
+    2300190: mtl panel08
+    2300192: mtl panel09
+    2300194: mtl panel10
+    2300196: mtl panel11
+    2300198: mtl panel12
+    2300200: mtl panel13
+    2300202: mtl panel14
+    2300204: mtl panel15
+    2300206: mtl panel16
+    2300208: mtl panel17
+    2300210: mtl panel18
+    2300212: mtl rail
+    2300214: mtl screen00
+    2300216: mtl screen01_MeshPart0
+    2300218: mtl screen01_MeshPart1
+    2300220: mtl screen02
+    2300222: mtl stainless
+    2300224: mtl steel00
+    2300226: mtl steel02
+    2300228: mtl steel03
+    2300230: mtl steel04
+    2300232: mtl steel05
+    2300234: mtl steel06
+    2300236: mtl steel07
+    2300238: mtl steel08
+    2300240: mtl steel09
+    2300242: mtl steel10
+    2300244: mtl white00
+    2300246: mtl white01
+    2300248: mtl white03
+    2300250: mtl white04
+    2300252: mul white
+    2300254: mul white 1
+    2300256: mul white001
+    2300258: mul white002
+    2300260: mul white003
+    2300262: mul white004
+    2300264: mul00
+    2300266: mul01
+    2300268: mul02_MeshPart0
+    2300270: mul02_MeshPart1
+    2300272: mul02_MeshPart2
+    2300274: mul03
+    2300276: mul04
+    2300278: mul05
+    2300280: mul06
+    2300282: mul07
+    2300284: mul08
+    2300286: mul09
+    2300288: mul100
+    2300290: mul101
+    2300292: mul102
+    2300294: mul103
+    2300296: mul104
+    2300298: mul105
+    2300300: mul106
+    2300302: mul107
+    2300304: mul108
+    2300306: mul109
+    2300308: mul11
+    2300310: mul110
+    2300312: mul111
+    2300314: mul112
+    2300316: mul113
+    2300318: mul12
+    2300320: mul17
+    2300322: mul18
+    2300324: mul19
+    2300326: mul20
+    2300328: mul21
+    2300330: mul22
+    2300332: mul23
+    2300334: mul24
+    2300336: mul25
+    2300338: mul26
+    2300340: mul27
+    2300342: mul28
+    2300344: mul29
+    2300346: mul30
+    2300348: mul31
+    2300350: mul32
+    2300352: mul33
+    2300354: mul34_MeshPart0
+    2300356: mul34_MeshPart1
+    2300358: mul35
+    2300360: mul36
+    2300362: mul37
+    2300364: mul38
+    2300366: mul40
+    2300368: mul41
+    2300370: mul42
+    2300372: mul43
+    2300374: mul44
+    2300376: mul45
+    2300378: mul46
+    2300380: mul47
+    2300382: mul48
+    2300384: mul49
+    2300386: mul50
+    2300388: mul51
+    2300390: mul52
+    2300392: mul54
+    2300394: mul55
+    2300396: mul57
+    2300398: mul59
+    2300400: mul60
+    2300402: mul61
+    2300404: mul62
+    2300406: mul63
+    2300408: mul64
+    2300410: mul65
+    2300412: mul66
+    2300414: mul67
+    2300416: mul68
+    2300418: mul69
+    2300420: mul70
+    2300422: mul71
+    2300424: mul72
+    2300426: mul73_MeshPart0
+    2300428: mul73_MeshPart1
+    2300430: mul74
+    2300432: mul75
+    2300434: mul76
+    2300436: mul77
+    2300438: mul78
+    2300440: mul79
+    2300442: mul80
+    2300444: mul81
+    2300446: mul82
+    2300448: mul84
+    2300450: mul85
+    2300452: mul86
+    2300454: mul89
+    2300456: mul90
+    2300458: mul91
+    2300460: mul92
+    2300462: mul93
+    2300464: mul94
+    2300466: mul95
+    2300468: mul96
+    2300470: mul97
+    2300472: mul98
+    2300474: mul99
+    2300476: struct wood00
+    2300478: struct wood02
+    2300480: struct wood03
+    2300482: struct wood04
+    2300484: struct wood05
+    2300486: struct wood06
+    2300488: struct wood07
+    2300490: struct wood08
+    2300492: wal beige00
+    2300494: wal beige01
+    2300496: wal beige02
+    2300498: wal beige03
+    2300500: wal beige04
+    2300502: wal beige05
+    2300504: wal beige06
+    2300506: wal beige07
+    2300508: wal beige08
+    2300510: wal beige09
+    2300512: wal beige10
+    2300514: wal beige11
+    2300516: wal beige12
+    2300518: wal beige13
+    2300520: wal beige15
+    2300522: wall banner
+    2300524: wall concrete001
+    2300526: wall concrete002
+    2300528: wall concrete003
+    2300530: wall concrete005
+    2300532: wall concrete006
+    2300534: wall concrete007
+    2300536: wall concrete008
+    2300538: wall concrete009
+    2300540: wall concrete011
+    2300542: wall concrete013
+    2300544: wall concrete014
+    2300546: wall concrete015
+    2300548: wall concrete016
+    2300550: wall concrete017
+    2300552: wall concrete019
+    2300554: wall grey
+    2300556: wall gyp
+    2300558: wall holes_MeshPart0
+    2300560: wall holes_MeshPart1
+    2300562: wall light grey
+    2300564: wall pattern
+    2300566: wall pattern 1
+    2300568: wall pattern 2
+    2300570: wall pattern 3
+    2300572: wall pattern arabic
+    2300574: wall plaster
+    2300576: wall plaster white
+    2300578: wall precast grey00
+    2300580: wall precast grey01
+    2300582: wall precast grey02
+    2300584: wall precast grey03
+    2300586: wall precast grey04
+    2300588: wall precast grey05
+    2300590: wall precast grey06
+    2300592: wall precast grey07
+    2300594: wall precast grey08
+    2300596: wall precast grey09
+    2300598: wall precast pattern
+    2300600: wall precast pattern 1
+    2300602: wall precast pattern 2
+    2300604: wall precast pattern001
+    2300606: wall precast pattern002
+    2300608: wall precast pattern003
+    2300610: wall red
+    2300612: wall sandstone
+    2300614: wall sandstone 1
+    2300616: wall stone beige00
+    2300618: wall stone beige00 1
+    2300620: wall stone beige01
+    2300622: wall stone beige02
+    2300624: wall stone beige03
+    2300626: wall stone beige04
+    2300628: wall stone beige05
+    2300630: wall stone beige06
+    2300632: wall stone beige08
+    2300634: wall stone beige09
+    2300636: wall stone beige10
+    2300638: wall stone beige11
+    2300640: wall stone beige13
+    2300642: wall stone beige14
+    2300644: wall stone beige15
+    2300646: wall stone beige17
+    2300648: wall stone beige18
+    2300650: wall stone beige19
+    2300652: wall stone beige22
+    2300654: wall stone beige23
+    2300656: wall stone beige24
+    2300658: wall stone beige25
+    2300660: wall stone beige26
+    2300662: wall stone beige27
+    2300664: wall stone beige28
+    2300666: wall stone beige30
+    2300668: wall stone beige31
+    2300670: wall stone beige32
+    2300672: wall stone beige33
+    2300674: wall stone beige34
+    2300676: wall stone beige35
+    2300678: wall stone grey
+    2300680: wall stone yellow
+    2300682: wall strips
+    2300684: wall terracotta beige
+    2300686: wall tree bark
+    2300688: wall white
+    2300690: wall white00
+    2300692: wall white01
+    2300694: wall white02
+    2300696: wall white04
+    2300698: wall white05
+    2300700: wall white06
+    2300702: wall white07
+    2300704: wall white08
+    2300706: wall white09
+    2300708: wall white10
+    2300710: wall001
+    2300712: wall002
+    2300714: wall003
+    2300716: wall004
+    2300718: wall005
+    2300720: wall006
+    2300722: wall007
+    2300724: wall008
+    2300726: wall009
+    2300728: wall010
+    2300730: wall011
+    2300732: wall012
+    2300734: wall013
+    2300736: wall014
+    2300738: wall015
+    2300740: wall016
+    2300742: wall017
+    2300744: wall018
+    2300746: wall021
+    2300748: wall022
+    2300750: wall023
+    2300752: wall024
+    2300754: wall025
+    2300756: wall026
+    2300758: wall027
+    2300760: Wood_Birch
+    2300762: Wood_Birch001
+    2300764: Wood_Birch002
+    2300766: Wood_Birch003
+    2300768: Wood_Birch004
+    2300770: Wood_Birch005
+    2300772: Wood_Birch006
+    3300000: 1 gls
+    3300002: 1 gls 1
+    3300004: 1 gls blue 40%ref
+    3300006: 1 gls blue 40%ref001
+    3300008: 1 gls blue 40%ref002
+    3300010: 1 gls clear
+    3300012: 1 gls dark blue
+    3300014: 1 gls light
+    3300016: 1 gls light 1
+    3300018: 1 gls light001
+    3300020: 1 gls light002
+    3300022: 1 gls light003
+    3300024: 1 gls light004
+    3300026: 1 gls light005
+    3300028: 1 gls light006
+    3300030: 1 gls light008
+    3300032: 1 gls light009
+    3300034: 1 gls light010
+    3300036: 1 gls light011
+    3300038: 1 gls light012
+    3300040: 1 gls light013
+    3300042: 1 gls light015
+    3300044: 1 gls light016
+    3300046: 1 gls light017
+    3300048: 1 gls light018
+    3300050: 1 gls light019
+    3300052: 1 gls light020
+    3300054: 1 gls light021
+    3300056: 1 gls light022
+    3300058: 1 gls light023
+    3300060: 1 gls light024
+    3300062: 1 gls light025
+    3300064: 1 gls light026
+    3300066: 1 gls light027
+    3300068: 1 gls light028
+    3300070: 1 gls opaque
+    3300072: 1 gls opaque 1
+    3300074: 1 gls opaque001
+    3300076: 1 gls opaque002
+    3300078: 1 gls opaque003
+    3300080: 1 gls opaque004
+    3300082: 1 gls opaque005
+    3300084: 1 gls opaque006
+    3300086: 1 gls round
+    3300088: 1 gls001
+    3300090: 1 gls002
+    3300092: 1 gls004
+    3300094: 1 gls006
+    3300096: ceiling
+    3300098: door stone
+    3300100: door wood
+    3300102: elev
+    3300104: elev001
+    3300106: floor
+    3300108: floor carpet
+    3300110: floor concrete polished black
+    3300112: floor concrete polished black001
+    3300114: floor concrete polished black002
+    3300116: floor concrete polished black004
+    3300118: floor marble
+    3300120: floor paving_Running Bond 2x1 Light Begie
+    3300122: floor stone balack
+    3300124: floor stone black
+    3300126: floor stone tan
+    3300128: floor stone white
+    3300130: floor stone white 1
+    3300132: floor stone white003
+    3300134: mtl
+    3300136: mtl bronze
+    3300138: mtl bronze001
+    3300140: mtl bronze002
+    3300142: mtl canopy
+    3300144: mtl corten
+    3300146: mtl corten dark
+    3300148: mtl dark
+    3300150: mtl door00
+    3300152: mtl door01
+    3300154: mtl door02
+    3300156: mtl door03
+    3300158: mtl door04
+    3300160: mtl door05
+    3300162: mtl door06
+    3300164: mtl door07
+    3300166: mtl door09
+    3300168: mtl frame
+    3300170: mtl light grey
+    3300172: mtl mesh
+    3300174: mtl mesh 1
+    3300176: mtl mesh001
+    3300178: mtl panel
+    3300180: mtl panel00
+    3300182: mtl panel01
+    3300184: mtl panel03
+    3300186: mtl panel04
+    3300188: mtl panel07
+    3300190: mtl panel08
+    3300192: mtl panel09
+    3300194: mtl panel10
+    3300196: mtl panel11
+    3300198: mtl panel12
+    3300200: mtl panel13
+    3300202: mtl panel14
+    3300204: mtl panel15
+    3300206: mtl panel16
+    3300208: mtl panel17
+    3300210: mtl panel18
+    3300212: mtl rail
+    3300214: mtl screen00
+    3300216: mtl screen01_MeshPart0
+    3300218: mtl screen01_MeshPart1
+    3300220: mtl screen02
+    3300222: mtl stainless
+    3300224: mtl steel00
+    3300226: mtl steel02
+    3300228: mtl steel03
+    3300230: mtl steel04
+    3300232: mtl steel05
+    3300234: mtl steel06
+    3300236: mtl steel07
+    3300238: mtl steel08
+    3300240: mtl steel09
+    3300242: mtl steel10
+    3300244: mtl white00
+    3300246: mtl white01
+    3300248: mtl white03
+    3300250: mtl white04
+    3300252: mul white
+    3300254: mul white 1
+    3300256: mul white001
+    3300258: mul white002
+    3300260: mul white003
+    3300262: mul white004
+    3300264: mul00
+    3300266: mul01
+    3300268: mul02_MeshPart0
+    3300270: mul02_MeshPart1
+    3300272: mul02_MeshPart2
+    3300274: mul03
+    3300276: mul04
+    3300278: mul05
+    3300280: mul06
+    3300282: mul07
+    3300284: mul08
+    3300286: mul09
+    3300288: mul100
+    3300290: mul101
+    3300292: mul102
+    3300294: mul103
+    3300296: mul104
+    3300298: mul105
+    3300300: mul106
+    3300302: mul107
+    3300304: mul108
+    3300306: mul109
+    3300308: mul11
+    3300310: mul110
+    3300312: mul111
+    3300314: mul112
+    3300316: mul113
+    3300318: mul12
+    3300320: mul17
+    3300322: mul18
+    3300324: mul19
+    3300326: mul20
+    3300328: mul21
+    3300330: mul22
+    3300332: mul23
+    3300334: mul24
+    3300336: mul25
+    3300338: mul26
+    3300340: mul27
+    3300342: mul28
+    3300344: mul29
+    3300346: mul30
+    3300348: mul31
+    3300350: mul32
+    3300352: mul33
+    3300354: mul34_MeshPart0
+    3300356: mul34_MeshPart1
+    3300358: mul35
+    3300360: mul36
+    3300362: mul37
+    3300364: mul38
+    3300366: mul40
+    3300368: mul41
+    3300370: mul42
+    3300372: mul43
+    3300374: mul44
+    3300376: mul45
+    3300378: mul46
+    3300380: mul47
+    3300382: mul48
+    3300384: mul49
+    3300386: mul50
+    3300388: mul51
+    3300390: mul52
+    3300392: mul54
+    3300394: mul55
+    3300396: mul57
+    3300398: mul59
+    3300400: mul60
+    3300402: mul61
+    3300404: mul62
+    3300406: mul63
+    3300408: mul64
+    3300410: mul65
+    3300412: mul66
+    3300414: mul67
+    3300416: mul68
+    3300418: mul69
+    3300420: mul70
+    3300422: mul71
+    3300424: mul72
+    3300426: mul73_MeshPart0
+    3300428: mul73_MeshPart1
+    3300430: mul74
+    3300432: mul75
+    3300434: mul76
+    3300436: mul77
+    3300438: mul78
+    3300440: mul79
+    3300442: mul80
+    3300444: mul81
+    3300446: mul82
+    3300448: mul84
+    3300450: mul85
+    3300452: mul86
+    3300454: mul89
+    3300456: mul90
+    3300458: mul91
+    3300460: mul92
+    3300462: mul93
+    3300464: mul94
+    3300466: mul95
+    3300468: mul96
+    3300470: mul97
+    3300472: mul98
+    3300474: mul99
+    3300476: struct wood00
+    3300478: struct wood02
+    3300480: struct wood03
+    3300482: struct wood04
+    3300484: struct wood05
+    3300486: struct wood06
+    3300488: struct wood07
+    3300490: struct wood08
+    3300492: wal beige00
+    3300494: wal beige01
+    3300496: wal beige02
+    3300498: wal beige03
+    3300500: wal beige04
+    3300502: wal beige05
+    3300504: wal beige06
+    3300506: wal beige07
+    3300508: wal beige08
+    3300510: wal beige09
+    3300512: wal beige10
+    3300514: wal beige11
+    3300516: wal beige12
+    3300518: wal beige13
+    3300520: wal beige15
+    3300522: wall banner
+    3300524: wall concrete001
+    3300526: wall concrete002
+    3300528: wall concrete003
+    3300530: wall concrete005
+    3300532: wall concrete006
+    3300534: wall concrete007
+    3300536: wall concrete008
+    3300538: wall concrete009
+    3300540: wall concrete011
+    3300542: wall concrete013
+    3300544: wall concrete014
+    3300546: wall concrete015
+    3300548: wall concrete016
+    3300550: wall concrete017
+    3300552: wall concrete019
+    3300554: wall grey
+    3300556: wall gyp
+    3300558: wall holes_MeshPart0
+    3300560: wall holes_MeshPart1
+    3300562: wall light grey
+    3300564: wall pattern
+    3300566: wall pattern 1
+    3300568: wall pattern 2
+    3300570: wall pattern 3
+    3300572: wall pattern arabic
+    3300574: wall plaster
+    3300576: wall plaster white
+    3300578: wall precast grey00
+    3300580: wall precast grey01
+    3300582: wall precast grey02
+    3300584: wall precast grey03
+    3300586: wall precast grey04
+    3300588: wall precast grey05
+    3300590: wall precast grey06
+    3300592: wall precast grey07
+    3300594: wall precast grey08
+    3300596: wall precast grey09
+    3300598: wall precast pattern
+    3300600: wall precast pattern 1
+    3300602: wall precast pattern 2
+    3300604: wall precast pattern001
+    3300606: wall precast pattern002
+    3300608: wall precast pattern003
+    3300610: wall red
+    3300612: wall sandstone
+    3300614: wall sandstone 1
+    3300616: wall stone beige00
+    3300618: wall stone beige00 1
+    3300620: wall stone beige01
+    3300622: wall stone beige02
+    3300624: wall stone beige03
+    3300626: wall stone beige04
+    3300628: wall stone beige05
+    3300630: wall stone beige06
+    3300632: wall stone beige08
+    3300634: wall stone beige09
+    3300636: wall stone beige10
+    3300638: wall stone beige11
+    3300640: wall stone beige13
+    3300642: wall stone beige14
+    3300644: wall stone beige15
+    3300646: wall stone beige17
+    3300648: wall stone beige18
+    3300650: wall stone beige19
+    3300652: wall stone beige22
+    3300654: wall stone beige23
+    3300656: wall stone beige24
+    3300658: wall stone beige25
+    3300660: wall stone beige26
+    3300662: wall stone beige27
+    3300664: wall stone beige28
+    3300666: wall stone beige30
+    3300668: wall stone beige31
+    3300670: wall stone beige32
+    3300672: wall stone beige33
+    3300674: wall stone beige34
+    3300676: wall stone beige35
+    3300678: wall stone grey
+    3300680: wall stone yellow
+    3300682: wall strips
+    3300684: wall terracotta beige
+    3300686: wall tree bark
+    3300688: wall white
+    3300690: wall white00
+    3300692: wall white01
+    3300694: wall white02
+    3300696: wall white04
+    3300698: wall white05
+    3300700: wall white06
+    3300702: wall white07
+    3300704: wall white08
+    3300706: wall white09
+    3300708: wall white10
+    3300710: wall001
+    3300712: wall002
+    3300714: wall003
+    3300716: wall004
+    3300718: wall005
+    3300720: wall006
+    3300722: wall007
+    3300724: wall008
+    3300726: wall009
+    3300728: wall010
+    3300730: wall011
+    3300732: wall012
+    3300734: wall013
+    3300736: wall014
+    3300738: wall015
+    3300740: wall016
+    3300742: wall017
+    3300744: wall018
+    3300746: wall021
+    3300748: wall022
+    3300750: wall023
+    3300752: wall024
+    3300754: wall025
+    3300756: wall026
+    3300758: wall027
+    3300760: Wood_Birch
+    3300762: Wood_Birch001
+    3300764: Wood_Birch002
+    3300766: Wood_Birch003
+    3300768: Wood_Birch004
+    3300770: Wood_Birch005
+    3300772: Wood_Birch006
+    4300000: 1 gls round
+    4300002: 1 gls006
+    4300004: mtl panel
+    4300006: 1 gls light028
+    4300008: floor stone balack
+    4300010: floor
+    4300012: mtl canopy
+    4300014: mul02_MeshPart0
+    4300016: mul02_MeshPart1
+    4300018: mul02_MeshPart2
+    4300020: mul18
+    4300022: mul22
+    4300024: mtl bronze001
+    4300026: mtl bronze002
+    4300028: 1 gls opaque
+    4300030: 1 gls opaque001
+    4300032: 1 gls opaque002
+    4300034: 1 gls opaque003
+    4300036: 1 gls opaque004
+    4300038: 1 gls opaque005
+    4300040: 1 gls opaque006
+    4300042: mul white001
+    4300044: mul white002
+    4300046: mul white003
+    4300048: mul white004
+    4300050: Wood_Birch001
+    4300052: Wood_Birch002
+    4300054: Wood_Birch003
+    4300056: Wood_Birch004
+    4300058: Wood_Birch005
+    4300060: Wood_Birch006
+    4300062: Wood_Birch
+    4300064: 1 gls blue 40%ref001
+    4300066: 1 gls blue 40%ref002
+    4300068: struct wood02
+    4300070: struct wood03
+    4300072: struct wood04
+    4300074: struct wood05
+    4300076: struct wood06
+    4300078: struct wood07
+    4300080: struct wood08
+    4300082: mul24
+    4300084: wall concrete001
+    4300086: wall concrete002
+    4300088: wall concrete003
+    4300090: wall concrete005
+    4300092: wall concrete006
+    4300094: wall concrete007
+    4300096: wall concrete008
+    4300098: wall concrete009
+    4300100: wall concrete011
+    4300102: wall concrete013
+    4300104: wall concrete014
+    4300106: wall concrete015
+    4300108: mul29
+    4300110: wall concrete016
+    4300112: mtl panel00
+    4300114: wal beige00
+    4300116: wal beige01
+    4300118: 1 gls blue 40%ref
+    4300120: 1 gls dark blue
+    4300122: 1 gls light
+    4300124: 1 gls opaque
+    4300126: 1 gls
+    4300128: mtl steel02
+    4300130: mtl steel03
+    4300132: mtl steel04
+    4300134: mtl steel05
+    4300136: mtl steel06
+    4300138: mtl steel07
+    4300140: mtl steel08
+    4300142: mtl steel09
+    4300144: mtl steel00
+    4300146: mul31
+    4300148: mul34_MeshPart0
+    4300150: mul34_MeshPart1
+    4300152: mul37
+    4300154: mul40
+    4300156: mul44
+    4300158: mul47
+    4300160: mul48
+    4300162: floor stone white
+    4300164: floor stone white003
+    4300166: floor stone white
+    4300168: mtl panel01
+    4300170: mul64
+    4300172: mul67
+    4300174: mul69
+    4300176: mul71
+    4300178: mtl panel03
+    4300180: mtl panel04
+    4300182: mul74
+    4300184: mul77
+    4300186: mul03
+    4300188: mul80
+    4300190: wall001
+    4300192: wall stone beige09
+    4300194: mul07
+    4300196: mul08
+    4300198: mul09
+    4300200: mul11
+    4300202: mul12
+    4300204: mul06
+    4300206: floor concrete polished black001
+    4300208: floor concrete polished black002
+    4300210: floor concrete polished black004
+    4300212: floor concrete polished black
+    4300214: wall white04
+    4300216: wall white05
+    4300218: wall white06
+    4300220: wall white07
+    4300222: wall white08
+    4300224: wall white09
+    4300226: wall white10
+    4300228: mul white
+    4300230: wall white01
+    4300232: 1 gls light001
+    4300234: 1 gls light002
+    4300236: 1 gls light003
+    4300238: 1 gls light004
+    4300240: 1 gls light005
+    4300242: 1 gls light006
+    4300244: 1 gls light008
+    4300246: 1 gls light009
+    4300248: 1 gls light010
+    4300250: 1 gls light011
+    4300252: 1 gls light012
+    4300254: 1 gls light013
+    4300256: 1 gls light015
+    4300258: 1 gls light016
+    4300260: 1 gls light017
+    4300262: 1 gls light018
+    4300264: 1 gls light019
+    4300266: 1 gls light020
+    4300268: 1 gls light021
+    4300270: 1 gls light022
+    4300272: 1 gls light023
+    4300274: 1 gls light024
+    4300276: 1 gls light025
+    4300278: 1 gls light026
+    4300280: 1 gls light027
+    4300282: mtl panel07
+    4300284: mtl panel08
+    4300286: wall002
+    4300288: wall precast pattern001
+    4300290: wall precast pattern002
+    4300292: wall precast pattern003
+    4300294: mtl steel10
+    4300296: mtl door05
+    4300298: mtl door06
+    4300300: mtl door07
+    4300302: mtl door09
+    4300304: wall003
+    4300306: wall004
+    4300308: wall005
+    4300310: wall006
+    4300312: wall007
+    4300314: wall008
+    4300316: wall009
+    4300318: wall010
+    4300320: wall011
+    4300322: wall012
+    4300324: wall013
+    4300326: wall014
+    4300328: wall015
+    4300330: wall016
+    4300332: wall017
+    4300334: wall018
+    4300336: wall021
+    4300338: wall022
+    4300340: wall023
+    4300342: wall024
+    4300344: wall025
+    4300346: wall026
+    4300348: wall027
+    4300350: wal beige04
+    4300352: 1 gls001
+    4300354: 1 gls002
+    4300356: 1 gls004
+    4300358: 1 gls
+    4300360: wall concrete017
+    4300362: wall concrete019
+    4300364: mtl white01
+    4300366: mtl white03
+    4300368: mtl white00
+    4300370: wall stone beige15
+    4300372: wall stone beige19
+    4300374: wall stone beige05
+    4300376: wall stone beige23
+    4300378: wall stone beige25
+    4300380: wall stone beige26
+    4300382: wall stone beige28
+    4300384: wall stone beige31
+    4300386: wall stone beige32
+    4300388: wall stone beige33
+    4300390: wall stone beige34
+    4300392: wall stone beige35
+    4300394: wall stone beige04
+    4300396: mtl mesh001
+    4300398: mtl mesh
+    4300400: wall stone beige10
+    4300402: wall stone beige14
+    4300404: wall stone beige18
+    4300406: wall stone beige22
+    4300408: wall stone beige24
+    4300410: wall stone beige27
+    4300412: wall stone beige30
+    4300414: wall gyp
+    4300416: wall precast grey03
+    4300418: wall precast grey04
+    4300420: wall precast grey05
+    4300422: wall precast grey06
+    4300424: wall precast grey07
+    4300426: wall precast grey08
+    4300428: wall precast grey09
+    4300430: wall precast grey01
+    4300432: wall precast grey00
+    4300434: 1 gls clear
+    4300436: 1 gls light
+    4300438: mtl panel09
+    4300440: door stone
+    4300442: door wood
+    4300444: floor carpet
+    4300446: floor marble
+    4300448: floor stone black
+    4300450: floor stone tan
+    4300452: mtl
+    4300454: mtl bronze
+    4300456: mtl corten
+    4300458: mtl corten dark
+    4300460: mtl dark
+    4300462: mtl door01
+    4300464: mtl door00
+    4300466: mtl door04
+    4300468: mtl frame
+    4300470: mtl light grey
+    4300472: mtl mesh
+    4300474: mtl panel10
+    4300476: mtl panel11
+    4300478: mtl rail
+    4300480: mtl stainless
+    4300482: mtl white04
+    4300484: mul00
+    4300486: mul01
+    4300488: mul white
+    4300490: struct wood00
+    4300492: wal beige07
+    4300494: wal beige08
+    4300496: wal beige09
+    4300498: wal beige10
+    4300500: wal beige11
+    4300502: wal beige12
+    4300504: wal beige13
+    4300506: wal beige05
+    4300508: wal beige15
+    4300510: wal beige06
+    4300512: wal beige02
+    4300514: wal beige03
+    4300516: wall banner
+    4300518: wall grey
+    4300520: wall holes_MeshPart0
+    4300522: wall holes_MeshPart1
+    4300524: wall light grey
+    4300526: wall pattern
+    4300528: wall pattern
+    4300530: wall pattern
+    4300532: wall pattern
+    4300534: wall pattern arabic
+    4300536: wall plaster
+    4300538: wall plaster white
+    4300540: wall precast grey02
+    4300542: wall precast pattern
+    4300544: wall precast pattern
+    4300546: wall precast pattern
+    4300548: wall sandstone
+    4300550: wall sandstone
+    4300552: wall stone beige08
+    4300554: wall stone beige01
+    4300556: wall stone beige02
+    4300558: wall stone beige06
+    4300560: wall stone grey
+    4300562: wall stone beige00
+    4300564: wall stone yellow
+    4300566: wall stone beige11
+    4300568: wall stone beige13
+    4300570: wall stone beige17
+    4300572: wall strips
+    4300574: wall terracotta beige
+    4300576: wall tree bark
+    4300578: wall white00
+    4300580: wall white02
+    4300582: wall white
+    4300584: mtl door03
+    4300586: wall stone beige03
+    4300588: wall stone beige00
+    4300590: floor paving_Running Bond 2x1 Light Begie
+    4300592: mtl door02
+    4300594: wall red
+    4300596: ceiling
+    4300598: mul25
+    4300600: mul20
+    4300602: mul28
+    4300604: mul30
+    4300606: mul33
+    4300608: mul42
+    4300610: mul49
+    4300612: mul54
+    4300614: mul59
+    4300616: mul66
+    4300618: mul73_MeshPart0
+    4300620: mul73_MeshPart1
+    4300622: mul76
+    4300624: mul19
+    4300626: mtl screen02
+    4300628: mtl screen01_MeshPart0
+    4300630: mtl screen01_MeshPart1
+    4300632: mtl screen00
+    4300634: mtl panel12
+    4300636: mtl panel13
+    4300638: mul85
+    4300640: mtl panel14
+    4300642: mtl panel15
+    4300644: mul41
+    4300646: mul45
+    4300648: mtl panel16
+    4300650: mul52
+    4300652: mul61
+    4300654: mul63
+    4300656: mul70
+    4300658: mul79
+    4300660: mul82
+    4300662: mul84
+    4300664: mul86
+    4300666: mul89
+    4300668: mul90
+    4300670: mul91
+    4300672: mtl panel17
+    4300674: mul92
+    4300676: mul93
+    4300678: mul36
+    4300680: mul94
+    4300682: mul95
+    4300684: mul96
+    4300686: mul97
+    4300688: mul98
+    4300690: mul99
+    4300692: mul100
+    4300694: mul101
+    4300696: mul102
+    4300698: mul103
+    4300700: mul104
+    4300702: mul105
+    4300704: mul106
+    4300706: mul107
+    4300708: mul108
+    4300710: mul109
+    4300712: mul110
+    4300714: mul111
+    4300716: mul112
+    4300718: mul113
+    4300720: mtl panel18
+    4300722: elev
+    4300724: mul05
+    4300726: mul17
+    4300728: mul21
+    4300730: mul23
+    4300732: mul26
+    4300734: mul32
+    4300736: elev001
+    4300738: mul35
+    4300740: mul38
+    4300742: mul43
+    4300744: mul46
+    4300746: mul50
+    4300748: mul51
+    4300750: mul55
+    4300752: mul57
+    4300754: mul60
+    4300756: mul62
+    4300758: mul65
+    4300760: mul68
+    4300762: mul72
+    4300764: mul75
+    4300766: mul78
+    4300768: mul81
+    4300770: mul04
+    4300772: mul27
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
